@@ -1,5 +1,4 @@
 <?php
-	echo 'sachin ayyar';
-	echo 'sumit biswal';
- 	
+	echo 'sachin ayyar'; \n
+		echo 'sumit'
 ?>
