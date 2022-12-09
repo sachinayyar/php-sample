@@ -1,4 +1,3 @@
 <?php
-	echo 'sachin ayyar'; \n
-		echo 'sumit'
+	echo 'sachin';
 ?>
