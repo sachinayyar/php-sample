@@ -4,8 +4,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.educba.examples</groupId>
-<artifactId>php-sample2</artifactId>
-<packaging>war</packaging>
+<artifactId>php-sample</artifactId>
+<packaging>jar</packaging>
 <version>1.0-RELEASE</version>
 <name>Maven Archetype</name>
 <url>http://maven.apache.org</url>
